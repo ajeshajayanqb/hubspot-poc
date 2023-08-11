@@ -13,12 +13,11 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24 h-screen">
       <HubSpotForm 
         region='na1'
-        portalId='43383438'
-        formId='22388c5c-bf64-4063-9fb1-559505db9dcc'
+        portalId='7535538'
+        formId='aca0138c-424b-4d64-b167-d54a63d76c45'
         target='sample'
         // onFormSubmitted={handleNavigation}
       />
     </main>
   )
 }
-
